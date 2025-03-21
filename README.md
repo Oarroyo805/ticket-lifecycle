@@ -27,7 +27,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Example 1 </h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![1](https://github.com/user-attachments/assets/62b74217-6532-43e4-9dc1-4729f4fed345)
+
 </p>
 <p>
 Summary: Creating a Ticket as End User Karen in osTicket
@@ -57,7 +59,9 @@ Click Create Ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![2](https://github.com/user-attachments/assets/def54d54-98bf-4c9d-ae40-1d3e4a93b24d)
+
 </p>
 <p>
 Summary: Logging in as John to Work on the Ticket in osTicket
@@ -91,7 +95,9 @@ Click Save Changes.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![3](https://github.com/user-attachments/assets/c5928fcb-4a03-451e-a251-2acc89e58ddf)
+
 </p>
 <p>
 Summary: Working the ticket
@@ -107,7 +113,9 @@ Click "Post Reply"
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![4](https://github.com/user-attachments/assets/877dbc5d-c33b-4777-8b9b-0ae77028eb49)
+
 </p>
 <p>
 Summary: Resolving the Ticket in osTicket
@@ -131,7 +139,9 @@ Click Save Changes.
 <h2>Example 2 </h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![1b](https://github.com/user-attachments/assets/2662a278-c564-463d-8243-61f8ac91cb98)
+
 </p>
 <p>
 Summary: Creating a Ticket as End User Karen
@@ -161,7 +171,9 @@ Click "Create Ticket".
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![2b](https://github.com/user-attachments/assets/588db84e-41b9-4253-a42f-4d50e34985ca)
+
 </p>
 <p>
 Summary: Working the Ticket as John Doe
@@ -191,7 +203,9 @@ Assign the ticket to John Doe for further troubleshooting.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![3b](https://github.com/user-attachments/assets/ab20d44d-1a75-4ccd-90bc-bdfab87ec4a2)
+
 </p>
 <p>
 Summary: Working the ticket
@@ -207,7 +221,9 @@ Post the Reply to document the resolution progress.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![4b](https://github.com/user-attachments/assets/195b77fe-15bb-400c-b249-4dcadee7d0e8)
+
 </p>
 <p>
 Summary: Closing the Ticket
