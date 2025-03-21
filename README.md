@@ -31,6 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 Summary: Creating a Ticket as End User Karen in osTicket
+
 Access the osTicket End User Portal
 
 Go to http://localhost/osTicket.
@@ -59,7 +60,33 @@ Click Create Ticket.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Summary: Logging in as John to Work on the Ticket in osTicket
+
+Go to http://localhost/osTicket/scp/login.php.
+
+Log in with John’s credentials.
+
+Inspect the Ticket
+
+Locate the newly created ticket.
+
+Click on it to view details.
+
+Update the Ticket
+
+Based on a scenario where only 2 people are unable to open Adobe Reader, update the ticket:
+
+SLA: Change to Sev-C
+
+Internal Note: "Only 2 people unable to open Adobe Reader, classifying as Sev-C."
+
+Click Update.
+
+Assign the Ticket
+
+Assign the ticket to John Doe.
+
+Click Save Changes.
 </p>
 <br />
 
@@ -67,7 +94,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Summary: Working the ticket
+
+Scroll Down to "Post Reply"
+
+Enter a Response:
+
+"Customer states only 2 people in the accounting department are unable to open and use Adobe Reader. Customer testing restart and will call back after lunch."
+
+Click "Post Reply"
 </p>
 <br />
 
@@ -75,7 +110,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Summary: Resolving the Ticket in osTicket
+
+Scroll Down to "Post Reply"
+
+Enter: "Customer states that restarting the computer fixed the issue. Closing ticket now."
+
+Click Post Reply.
+
+Change Ticket Status
+
+Scroll up to Status.
+
+Change from Open to Resolved.
+
+Click Save Changes.
 </p>
 <br />
 
